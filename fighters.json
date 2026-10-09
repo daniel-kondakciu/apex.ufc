@@ -1,0 +1,1002 @@
+[
+  {
+    "division": "Flyweight",
+    "name": "JOSHUA VAN",
+    "weight": 125,
+    "rank": "C",
+    "record": "17-2-0",
+    "status": "Current UFC Flyweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "ALEXANDRE PANTOJA",
+    "weight": 125,
+    "rank": 1,
+    "record": "30-6-0",
+    "status": "Former UFC Flyweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "MANEL KAPE",
+    "weight": 125,
+    "rank": 2,
+    "record": "23-7-0",
+    "status": "Former RIZIN Bantamweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "BRANDON ROYVAL",
+    "weight": 125,
+    "rank": 3,
+    "record": "18-9-0",
+    "status": "Former LFA Flyweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "TATSURO TAIRA",
+    "weight": 125,
+    "rank": 4,
+    "record": "18-2-0",
+    "status": "Former Shooto Flyweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "ASU ALMABAYEV",
+    "weight": 125,
+    "rank": 5,
+    "record": "24-3-0",
+    "status": "Former M-1 Flyweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "LONE'ER KAVANGAH",
+    "weight": 125,
+    "rank": 6,
+    "record": "10-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Flyweight",
+    "name": "RAMAZAN TEMIROV",
+    "weight": 125,
+    "rank": 7,
+    "record": "20-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Flyweight",
+    "name": "KYOJI HORIGUCHI",
+    "weight": 125,
+    "rank": 8,
+    "record": "36-6-0",
+    "status": "Former UFC Flyweight Champion; Former RIZIN & Bellator Bantamweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "AMIR ALBAZI",
+    "weight": 125,
+    "rank": 9,
+    "record": "17-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Flyweight",
+    "name": "BRANDON MORENO",
+    "weight": 125,
+    "rank": 10,
+    "record": "23-10-2",
+    "status": "2x UFC Flyweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "ALEX PEREZ",
+    "weight": 125,
+    "rank": 11,
+    "record": "26-10-0",
+    "status": "None"
+  },
+  {
+    "division": "Flyweight",
+    "name": "STEVE ERCEG",
+    "weight": 125,
+    "rank": 12,
+    "record": "14-5-0",
+    "status": "None"
+  },
+  {
+    "division": "Flyweight",
+    "name": "TIM ELLIOTT",
+    "weight": 125,
+    "rank": 13,
+    "record": "22-14-1",
+    "status": "Former UFC Flyweight Champion; Former Titan FC Flyweight Champion"
+  },
+  {
+    "division": "Flyweight",
+    "name": "TAGIR ULANBEKOV",
+    "weight": 125,
+    "rank": 14,
+    "record": "17-3-0",
+    "status": "Former FNG Flyweight Champion"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "PETR YAN",
+    "weight": 135,
+    "rank": "C",
+    "record": "20-5-0",
+    "status": "Current UFC Bantamweight Champion; 2x UFC Bantamweight Champion"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "MERAB DVALISHVILI",
+    "weight": 135,
+    "rank": 1,
+    "record": "21-5-0",
+    "status": "Former UFC Bantamweight Champion"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "SEAN O'MALLEY",
+    "weight": 135,
+    "rank": 2,
+    "record": "20-3-0",
+    "status": "Former UFC Bantamweight Champion"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "UMAR NURMAGOMEDOV",
+    "weight": 135,
+    "rank": 3,
+    "record": "20-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "MARIO BAUTISTA",
+    "weight": 135,
+    "rank": 4,
+    "record": "18-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "CORY SANDHAGEN",
+    "weight": 135,
+    "rank": 5,
+    "record": "18-7-0",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "SONG YADONG",
+    "weight": 135,
+    "rank": 6,
+    "record": "23-9-1",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "AIEMANN ZAHABI",
+    "weight": 135,
+    "rank": 7,
+    "record": "14-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "DAVID MARTINEZ",
+    "weight": 135,
+    "rank": 8,
+    "record": "14-1-0",
+    "status": "Former Combate Global Bantamweight Champion"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "DEIVESON FIGUEIREDO",
+    "weight": 135,
+    "rank": 9,
+    "record": "25-7-1",
+    "status": "2x UFC Flyweight Champion"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "MARLON VERA",
+    "weight": 135,
+    "rank": 10,
+    "record": "23-12-1",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "PAYTON TALBOTT",
+    "weight": 135,
+    "rank": 11,
+    "record": "11-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "RAUL ROSAS JR.",
+    "weight": 135,
+    "rank": 12,
+    "record": "13-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "RAONI BARCELOS",
+    "weight": 135,
+    "rank": 13,
+    "record": "22-5-0",
+    "status": "Former RFA Featherweight Champion"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "FARID BASHARAT",
+    "weight": 135,
+    "rank": 14,
+    "record": "16-0-0",
+    "status": "None"
+  },
+  {
+    "division": "Bantamweight",
+    "name": "MARCUS MCGHEE",
+    "weight": 135,
+    "rank": 15,
+    "record": "11-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "ALEXANDER VOLKANOVSKI",
+    "weight": 145,
+    "rank": "C",
+    "record": "28-4-0",
+    "status": "Current UFC Featherweight Champion; 2x UFC Featherweight Champion"
+  },
+  {
+    "division": "Featherweight",
+    "name": "MOVSAR EVLOEV",
+    "weight": 145,
+    "rank": 1,
+    "record": "20-0-0",
+    "status": "Former M-1 Bantamweight Champion"
+  },
+  {
+    "division": "Featherweight",
+    "name": "DIEGO LOPES",
+    "weight": 145,
+    "rank": 2,
+    "record": "27-8-0",
+    "status": "Former LUX Featherweight Champion"
+  },
+  {
+    "division": "Featherweight",
+    "name": "LERONE MURPHY",
+    "weight": 145,
+    "rank": 3,
+    "record": "17-1-1",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "ALJAMAIN STERLING",
+    "weight": 145,
+    "rank": 4,
+    "record": "26-5-0",
+    "status": "Former UFC Bantamweight Champion"
+  },
+  {
+    "division": "Featherweight",
+    "name": "ARNOLD ALLEN",
+    "weight": 145,
+    "rank": 5,
+    "record": "21-4-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "JEAN SILVA",
+    "weight": 145,
+    "rank": 6,
+    "record": "17-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "PAT SABATINI",
+    "weight": 145,
+    "rank": 7,
+    "record": "22-5-0",
+    "status": "Former CFFC Featherweight Champion"
+  },
+  {
+    "division": "Featherweight",
+    "name": "NATHANIEL WOOD",
+    "weight": 145,
+    "rank": 8,
+    "record": "23-6-0",
+    "status": "Former Cage Warriors Bantamweight Champion"
+  },
+  {
+    "division": "Featherweight",
+    "name": "YOUSSEF ZALAL",
+    "weight": 145,
+    "rank": 9,
+    "record": "18-6-1",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "KEVIN VALLEJOS",
+    "weight": 145,
+    "rank": 10,
+    "record": "17-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "MELQUIZAEL COSTA",
+    "weight": 145,
+    "rank": 11,
+    "record": "26-7-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "STEVE GARCIA",
+    "weight": 145,
+    "rank": 12,
+    "record": "19-6-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "AARON PICO",
+    "weight": 145,
+    "rank": 13,
+    "record": "14-5-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "JOSE MIGUEL DELGADO",
+    "weight": 145,
+    "rank": 14,
+    "record": "12-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Featherweight",
+    "name": "JOANDERSON BRITO",
+    "weight": 145,
+    "rank": 15,
+    "record": "19-5-1",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "JUSTIN GAETHJE",
+    "weight": 155,
+    "rank": "C",
+    "record": "28-5-0",
+    "status": "Current UFC Lightweight Champion; Former Interim UFC Lightweight Champion"
+  },
+  {
+    "division": "Lightweight",
+    "name": "ILIA TOPURIA",
+    "weight": 155,
+    "rank": 1,
+    "record": "17-1-0",
+    "status": "Former UFC Featherweight Champion; Former UFC Lightweight Champion; Former 2-division UFC Champion"
+  },
+  {
+    "division": "Lightweight",
+    "name": "ARMAN TSARUKYAN",
+    "weight": 155,
+    "rank": 2,
+    "record": "23-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "CHARLES OLIVEIRA",
+    "weight": 155,
+    "rank": 3,
+    "record": "37-11-0",
+    "status": "Former UFC Lightweight Champion; BMF Champion"
+  },
+  {
+    "division": "Lightweight",
+    "name": "MAX HOLLOWAY",
+    "weight": 155,
+    "rank": 4,
+    "record": "27-9-0",
+    "status": "Former UFC Featherweight Champion; BMF Champion"
+  },
+  {
+    "division": "Lightweight",
+    "name": "PADDY PIMBLETT",
+    "weight": 155,
+    "rank": 5,
+    "record": "24-4-0",
+    "status": "Former Cage Warriors Featherweight Champion"
+  },
+  {
+    "division": "Lightweight",
+    "name": "QUILLAN SALKILLD",
+    "weight": 155,
+    "rank": 6,
+    "record": "13-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "RENATO MOICANO",
+    "weight": 155,
+    "rank": 7,
+    "record": "21-7-1",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "BENOIT SAINT DENIS",
+    "weight": 155,
+    "rank": 8,
+    "record": "17-4-0",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "MATEUSZ GAMROT",
+    "weight": 155,
+    "rank": 9,
+    "record": "26-5-0",
+    "status": "Former KSW Double Champion (Featherweight & Lightweight)"
+  },
+  {
+    "division": "Lightweight",
+    "name": "MAURICIO RUFFY",
+    "weight": 155,
+    "rank": 10,
+    "record": "14-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "TOM NOLAN",
+    "weight": 155,
+    "rank": 11,
+    "record": "11-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "DAN HOOKER",
+    "weight": 155,
+    "rank": 12,
+    "record": "24-14-0",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "RAFAEL FIZIEV",
+    "weight": 155,
+    "rank": 13,
+    "record": "14-5-0",
+    "status": "None"
+  },
+  {
+    "division": "Lightweight",
+    "name": "TOFIQ MUSAYEV",
+    "weight": 155,
+    "rank": 14,
+    "record": "24-6-0",
+    "status": "Former RIZIN Lightweight Champion"
+  },
+  {
+    "division": "Lightweight",
+    "name": "GRANT DAWSON",
+    "weight": 155,
+    "rank": 15,
+    "record": "24-3-1",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "ISLAM MAKHACHEV",
+    "weight": 170,
+    "rank": "C",
+    "record": "29-1-0",
+    "status": "Current UFC Welterweight Champion; Former UFC Lightweight Champion; UFC 2-division Champion"
+  },
+  {
+    "division": "Welterweight",
+    "name": "CARLOS PRATES",
+    "weight": 170,
+    "rank": 1,
+    "record": "24-7-0",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "IAN MACHADO GARRY",
+    "weight": 170,
+    "rank": 2,
+    "record": "17-2-0",
+    "status": "Former Cage Warriors Welterweight Champion"
+  },
+  {
+    "division": "Welterweight",
+    "name": "MICHAEL MORALES",
+    "weight": 170,
+    "rank": 3,
+    "record": "19-0-0",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "JACK DELLA MADDALENA",
+    "weight": 170,
+    "rank": 4,
+    "record": "17-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "SEAN BRADY",
+    "weight": 170,
+    "rank": 5,
+    "record": "19-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "GABRIEL BONFIM",
+    "weight": 170,
+    "rank": 6,
+    "record": "20-1-0",
+    "status": "Former LFA Welterweight Champion"
+  },
+  {
+    "division": "Welterweight",
+    "name": "BELAL MUHAMMAD",
+    "weight": 170,
+    "rank": 7,
+    "record": "24-6-0",
+    "status": "Former UFC Welterweight Champion; Former Titan FC Welterweight Champion"
+  },
+  {
+    "division": "Welterweight",
+    "name": "LEON EDWARDS",
+    "weight": 170,
+    "rank": 8,
+    "record": "22-4-0",
+    "status": "Former UFC Welterweight Champion"
+  },
+  {
+    "division": "Welterweight",
+    "name": "JOAQUIN BUCKLEY",
+    "weight": 170,
+    "rank": 9,
+    "record": "21-8-0",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "UROS MEDIC",
+    "weight": 170,
+    "rank": 10,
+    "record": "14-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "KAMARU USMAN",
+    "weight": 170,
+    "rank": 11,
+    "record": "20-4-0",
+    "status": "Former UFC Welterweight Champion"
+  },
+  {
+    "division": "Welterweight",
+    "name": "MIKE MALOTT",
+    "weight": 170,
+    "rank": 12,
+    "record": "14-2-1",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "YAROSLAV AMOSOV",
+    "weight": 170,
+    "rank": 13,
+    "record": "29-1-0",
+    "status": "Former Bellator Welterweight Champion"
+  },
+  {
+    "division": "Welterweight",
+    "name": "KEVIN HOLLAND",
+    "weight": 170,
+    "rank": 14,
+    "record": "29-15-0",
+    "status": "None"
+  },
+  {
+    "division": "Welterweight",
+    "name": "DANIEL RODRIGUEZ",
+    "weight": 170,
+    "rank": 15,
+    "record": "20-7-0",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "SEAN STRICKLAND",
+    "weight": 185,
+    "rank": "C",
+    "record": "31-7-0",
+    "status": "Current UFC Middleweight Champion; 2x UFC Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "KHAMZAT CHIMAEV",
+    "weight": 185,
+    "rank": 1,
+    "record": "15-1-0",
+    "status": "Former UFC Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "DRICUS DU PLESSIS",
+    "weight": 185,
+    "rank": 2,
+    "record": "24-3-0",
+    "status": "Former UFC Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "NASSOURDINE IMAVOV",
+    "weight": 185,
+    "rank": 3,
+    "record": "17-4-0",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "JOE PYFER",
+    "weight": 185,
+    "rank": 4,
+    "record": "16-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "BRENDAN ALLEN",
+    "weight": 185,
+    "rank": 5,
+    "record": "27-7-0",
+    "status": "Former LFA Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "CAIO BORRALHO",
+    "weight": 185,
+    "rank": 6,
+    "record": "18-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "ANTHONY HERNANDEZ",
+    "weight": 185,
+    "rank": 7,
+    "record": "15-4-0",
+    "status": "Former LFA Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "MICHAEL VENOM PAGE",
+    "weight": 185,
+    "rank": 8,
+    "record": "25-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "ISRAEL ADESANYA",
+    "weight": 185,
+    "rank": 9,
+    "record": "24-6-0",
+    "status": "2x UFC Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "GREGORY RODRIGUES",
+    "weight": 185,
+    "rank": 10,
+    "record": "19-6-0",
+    "status": "Former LFA Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "CHRISTIAN LEROY DUNCAN",
+    "weight": 185,
+    "rank": 11,
+    "record": "15-2-0",
+    "status": "Former Cage Warriors Middleweight Champion"
+  },
+  {
+    "division": "Middleweight",
+    "name": "IKRAM ALISKEROV",
+    "weight": 185,
+    "rank": 12,
+    "record": "18-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "BO NICKAL",
+    "weight": 185,
+    "rank": 13,
+    "record": "9-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "ABUS MAGOMEDOV",
+    "weight": 185,
+    "rank": 14,
+    "record": "29-7-1",
+    "status": "None"
+  },
+  {
+    "division": "Middleweight",
+    "name": "NURSULTON RUZIBOEV",
+    "weight": 185,
+    "rank": 15,
+    "record": "37-9-2",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "CARLOS ULBERG",
+    "weight": 205,
+    "rank": "C",
+    "record": "15-1-0",
+    "status": "Current UFC Light Heavyweight Champion"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "ALEX PEREIRA",
+    "weight": 205,
+    "rank": 1,
+    "record": "13-3-0",
+    "status": "Former UFC Middleweight & Light Heavyweight Champion; Former UFC 2-division Champion"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "MAGOMED ANKALAEV",
+    "weight": 205,
+    "rank": 2,
+    "record": "22-2-1",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "JIRI PROCHAZKA",
+    "weight": 205,
+    "rank": 3,
+    "record": "32-6-1",
+    "status": "Former UFC & RIZIN Light Heavyweight Champion"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "PAULO COSTA",
+    "weight": 205,
+    "rank": 4,
+    "record": "16-4-0",
+    "status": "Former Jungle Fight Middleweight Champion"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "JAMAHAL HILL",
+    "weight": 205,
+    "rank": 5,
+    "record": "12-2-0",
+    "status": "Former UFC Light Heavyweight Champion"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "KHALIL ROUNTREE JR.",
+    "weight": 205,
+    "rank": 6,
+    "record": "15-7-0",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "NAVAJO STIRLING",
+    "weight": 205,
+    "rank": 7,
+    "record": "11-0-0",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "DOMINICK REYES",
+    "weight": 205,
+    "rank": 8,
+    "record": "16-5-0",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "AZAMAT MURZAKANOV",
+    "weight": 205,
+    "rank": 9,
+    "record": "16-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "BOGDAN GUSKOV",
+    "weight": 205,
+    "rank": 10,
+    "record": "18-3-0",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "ROBERT WHITTAKER",
+    "weight": 205,
+    "rank": 11,
+    "record": "28-9-0",
+    "status": "Former UFC Middleweight Champion"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "ALONZO MENIFIELD",
+    "weight": 205,
+    "rank": 12,
+    "record": "18-6-1",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "JOHNNY WALKER",
+    "weight": 205,
+    "rank": 13,
+    "record": "22-10-0",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "MUHAMMAD SAIDOV",
+    "weight": 205,
+    "rank": 14,
+    "record": "10-0-0",
+    "status": "None"
+  },
+  {
+    "division": "Light Heavyweight",
+    "name": "IWO BARANIEWSKI",
+    "weight": 205,
+    "rank": 15,
+    "record": "9-0-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "TOM ASPINALL",
+    "weight": 265,
+    "rank": "C",
+    "record": "15-3-0",
+    "status": "Current UFC Heavyweight Champion; Former Interim UFC Heavyweight Champion"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "CIRYL GANE",
+    "weight": 265,
+    "rank": 1,
+    "record": "14-2-0",
+    "status": "Current UFC Interim Heavyweight Champion; Former Interim UFC Heavyweight Champion"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "ALEXANDER VOLKOV",
+    "weight": 265,
+    "rank": 2,
+    "record": "40-11-0",
+    "status": "Former Bellator & M-1 Heavyweight Champion"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "SERGEI PAVLOVICH",
+    "weight": 265,
+    "rank": 3,
+    "record": "21-3-0",
+    "status": "Former FNG Heavyweight Champion"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "RIZVAN KUNIEV",
+    "weight": 265,
+    "rank": 5,
+    "record": "14-3-1",
+    "status": "Former EFC Heavyweight Champion"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "JOSH HOKIT",
+    "weight": 265,
+    "rank": 6,
+    "record": "10-0-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "WALDO CORTES ACOSTA",
+    "weight": 265,
+    "rank": 7,
+    "record": "17-3-0",
+    "status": "Former LFA Heavyweight Champion"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "VALTER WALKER",
+    "weight": 265,
+    "rank": 8,
+    "record": "16-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "CURTIS BLAYDES",
+    "weight": 265,
+    "rank": 10,
+    "record": "19-6-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "VITOR PETRINO",
+    "weight": 265,
+    "rank": 11,
+    "record": "15-2-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "BRANDO PERICIC",
+    "weight": 265,
+    "rank": 12,
+    "record": "7-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "MARIO PINTO",
+    "weight": 265,
+    "rank": 13,
+    "record": "12-0-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "MICK PARKIN",
+    "weight": 265,
+    "rank": 14,
+    "record": "10-1-0",
+    "status": "None"
+  },
+  {
+    "division": "Heavyweight",
+    "name": "RYAN SPANN",
+    "weight": 265,
+    "rank": 15,
+    "record": "24-11-0",
+    "status": "Former LFA Light Heavyweight Champion"
+  }
+]
