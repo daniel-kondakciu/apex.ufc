@@ -1,4 +1,5 @@
-from flask import Flask, jsonify, request, render_template
+from flask import Flask, jsonify
+import requests
 
 app = Flask(__name__)
 
@@ -11,11 +12,12 @@ def apex():
 
 @app.route('/login', methods=["POST"])
 def log_in():
-    data = request.get_json()
+    data = requests.get_json()
+    email = data.get("email")
 
 @app.route('/signup', methods=['POST'])
 def sign_up():
-    data = request.get_json()
+    data = requests.get_json()
     name = data.get("name")
     email = data.get("email")
     password = data.get("password")
@@ -40,16 +42,22 @@ def profile(name):
 @app.route('/events')
 def events():
     url = 'http://127.0.0.1:3000/fights'
-    response = request.get(url)
+    response = requests.get(url)
     fights = response.json()
     return (fights)
 
 @app.route('/fighter/<fighter>')
 def fighters(fighter):
-    url = 'http://127.0.0.1:5001/fighters'
-    response = request.get(url)
-    fighters = response.json()
-    return render_template('fighters.html', fighters=fighters)
+    try:
+        response = requests.get('http://127.0.0.1:5001/fighters')
+        data = response.json()
+        for fighter in data:
+            if fighter in data:
+                return jsonify({'division': data['division'], 'name': data['name']})
+            else:
+                return jsonify({'message': 'couldnt find the fighter'})
+    except requests.exceptions.RequestException:
+        return jsonify({'error': 'sorry we are having problems try later'})
 
 @app.route('/settings')
 def settings():

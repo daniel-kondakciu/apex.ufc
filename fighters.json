@@ -1,1002 +1,1257 @@
-[
-  {
-    "division": "Flyweight",
-    "name": "JOSHUA VAN",
-    "weight": 125,
-    "rank": "C",
-    "record": "17-2-0",
-    "status": "Current UFC Flyweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "ALEXANDRE PANTOJA",
-    "weight": 125,
-    "rank": 1,
-    "record": "30-6-0",
-    "status": "Former UFC Flyweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "MANEL KAPE",
-    "weight": 125,
-    "rank": 2,
-    "record": "23-7-0",
-    "status": "Former RIZIN Bantamweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "BRANDON ROYVAL",
-    "weight": 125,
-    "rank": 3,
-    "record": "18-9-0",
-    "status": "Former LFA Flyweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "TATSURO TAIRA",
-    "weight": 125,
-    "rank": 4,
-    "record": "18-2-0",
-    "status": "Former Shooto Flyweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "ASU ALMABAYEV",
-    "weight": 125,
-    "rank": 5,
-    "record": "24-3-0",
-    "status": "Former M-1 Flyweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "LONE'ER KAVANGAH",
-    "weight": 125,
-    "rank": 6,
-    "record": "10-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Flyweight",
-    "name": "RAMAZAN TEMIROV",
-    "weight": 125,
-    "rank": 7,
-    "record": "20-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Flyweight",
-    "name": "KYOJI HORIGUCHI",
-    "weight": 125,
-    "rank": 8,
-    "record": "36-6-0",
-    "status": "Former UFC Flyweight Champion; Former RIZIN & Bellator Bantamweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "AMIR ALBAZI",
-    "weight": 125,
-    "rank": 9,
-    "record": "17-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Flyweight",
-    "name": "BRANDON MORENO",
-    "weight": 125,
-    "rank": 10,
-    "record": "23-10-2",
-    "status": "2x UFC Flyweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "ALEX PEREZ",
-    "weight": 125,
-    "rank": 11,
-    "record": "26-10-0",
-    "status": "None"
-  },
-  {
-    "division": "Flyweight",
-    "name": "STEVE ERCEG",
-    "weight": 125,
-    "rank": 12,
-    "record": "14-5-0",
-    "status": "None"
-  },
-  {
-    "division": "Flyweight",
-    "name": "TIM ELLIOTT",
-    "weight": 125,
-    "rank": 13,
-    "record": "22-14-1",
-    "status": "Former UFC Flyweight Champion; Former Titan FC Flyweight Champion"
-  },
-  {
-    "division": "Flyweight",
-    "name": "TAGIR ULANBEKOV",
-    "weight": 125,
-    "rank": 14,
-    "record": "17-3-0",
-    "status": "Former FNG Flyweight Champion"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "PETR YAN",
-    "weight": 135,
-    "rank": "C",
-    "record": "20-5-0",
-    "status": "Current UFC Bantamweight Champion; 2x UFC Bantamweight Champion"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "MERAB DVALISHVILI",
-    "weight": 135,
-    "rank": 1,
-    "record": "21-5-0",
-    "status": "Former UFC Bantamweight Champion"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "SEAN O'MALLEY",
-    "weight": 135,
-    "rank": 2,
-    "record": "20-3-0",
-    "status": "Former UFC Bantamweight Champion"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "UMAR NURMAGOMEDOV",
-    "weight": 135,
-    "rank": 3,
-    "record": "20-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "MARIO BAUTISTA",
-    "weight": 135,
-    "rank": 4,
-    "record": "18-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "CORY SANDHAGEN",
-    "weight": 135,
-    "rank": 5,
-    "record": "18-7-0",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "SONG YADONG",
-    "weight": 135,
-    "rank": 6,
-    "record": "23-9-1",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "AIEMANN ZAHABI",
-    "weight": 135,
-    "rank": 7,
-    "record": "14-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "DAVID MARTINEZ",
-    "weight": 135,
-    "rank": 8,
-    "record": "14-1-0",
-    "status": "Former Combate Global Bantamweight Champion"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "DEIVESON FIGUEIREDO",
-    "weight": 135,
-    "rank": 9,
-    "record": "25-7-1",
-    "status": "2x UFC Flyweight Champion"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "MARLON VERA",
-    "weight": 135,
-    "rank": 10,
-    "record": "23-12-1",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "PAYTON TALBOTT",
-    "weight": 135,
-    "rank": 11,
-    "record": "11-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "RAUL ROSAS JR.",
-    "weight": 135,
-    "rank": 12,
-    "record": "13-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "RAONI BARCELOS",
-    "weight": 135,
-    "rank": 13,
-    "record": "22-5-0",
-    "status": "Former RFA Featherweight Champion"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "FARID BASHARAT",
-    "weight": 135,
-    "rank": 14,
-    "record": "16-0-0",
-    "status": "None"
-  },
-  {
-    "division": "Bantamweight",
-    "name": "MARCUS MCGHEE",
-    "weight": 135,
-    "rank": 15,
-    "record": "11-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "ALEXANDER VOLKANOVSKI",
-    "weight": 145,
-    "rank": "C",
-    "record": "28-4-0",
-    "status": "Current UFC Featherweight Champion; 2x UFC Featherweight Champion"
-  },
-  {
-    "division": "Featherweight",
-    "name": "MOVSAR EVLOEV",
-    "weight": 145,
-    "rank": 1,
-    "record": "20-0-0",
-    "status": "Former M-1 Bantamweight Champion"
-  },
-  {
-    "division": "Featherweight",
-    "name": "DIEGO LOPES",
-    "weight": 145,
-    "rank": 2,
-    "record": "27-8-0",
-    "status": "Former LUX Featherweight Champion"
-  },
-  {
-    "division": "Featherweight",
-    "name": "LERONE MURPHY",
-    "weight": 145,
-    "rank": 3,
-    "record": "17-1-1",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "ALJAMAIN STERLING",
-    "weight": 145,
-    "rank": 4,
-    "record": "26-5-0",
-    "status": "Former UFC Bantamweight Champion"
-  },
-  {
-    "division": "Featherweight",
-    "name": "ARNOLD ALLEN",
-    "weight": 145,
-    "rank": 5,
-    "record": "21-4-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "JEAN SILVA",
-    "weight": 145,
-    "rank": 6,
-    "record": "17-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "PAT SABATINI",
-    "weight": 145,
-    "rank": 7,
-    "record": "22-5-0",
-    "status": "Former CFFC Featherweight Champion"
-  },
-  {
-    "division": "Featherweight",
-    "name": "NATHANIEL WOOD",
-    "weight": 145,
-    "rank": 8,
-    "record": "23-6-0",
-    "status": "Former Cage Warriors Bantamweight Champion"
-  },
-  {
-    "division": "Featherweight",
-    "name": "YOUSSEF ZALAL",
-    "weight": 145,
-    "rank": 9,
-    "record": "18-6-1",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "KEVIN VALLEJOS",
-    "weight": 145,
-    "rank": 10,
-    "record": "17-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "MELQUIZAEL COSTA",
-    "weight": 145,
-    "rank": 11,
-    "record": "26-7-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "STEVE GARCIA",
-    "weight": 145,
-    "rank": 12,
-    "record": "19-6-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "AARON PICO",
-    "weight": 145,
-    "rank": 13,
-    "record": "14-5-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "JOSE MIGUEL DELGADO",
-    "weight": 145,
-    "rank": 14,
-    "record": "12-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Featherweight",
-    "name": "JOANDERSON BRITO",
-    "weight": 145,
-    "rank": 15,
-    "record": "19-5-1",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "JUSTIN GAETHJE",
-    "weight": 155,
-    "rank": "C",
-    "record": "28-5-0",
-    "status": "Current UFC Lightweight Champion; Former Interim UFC Lightweight Champion"
-  },
-  {
-    "division": "Lightweight",
-    "name": "ILIA TOPURIA",
-    "weight": 155,
-    "rank": 1,
-    "record": "17-1-0",
-    "status": "Former UFC Featherweight Champion; Former UFC Lightweight Champion; Former 2-division UFC Champion"
-  },
-  {
-    "division": "Lightweight",
-    "name": "ARMAN TSARUKYAN",
-    "weight": 155,
-    "rank": 2,
-    "record": "23-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "CHARLES OLIVEIRA",
-    "weight": 155,
-    "rank": 3,
-    "record": "37-11-0",
-    "status": "Former UFC Lightweight Champion; BMF Champion"
-  },
-  {
-    "division": "Lightweight",
-    "name": "MAX HOLLOWAY",
-    "weight": 155,
-    "rank": 4,
-    "record": "27-9-0",
-    "status": "Former UFC Featherweight Champion; BMF Champion"
-  },
-  {
-    "division": "Lightweight",
-    "name": "PADDY PIMBLETT",
-    "weight": 155,
-    "rank": 5,
-    "record": "24-4-0",
-    "status": "Former Cage Warriors Featherweight Champion"
-  },
-  {
-    "division": "Lightweight",
-    "name": "QUILLAN SALKILLD",
-    "weight": 155,
-    "rank": 6,
-    "record": "13-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "RENATO MOICANO",
-    "weight": 155,
-    "rank": 7,
-    "record": "21-7-1",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "BENOIT SAINT DENIS",
-    "weight": 155,
-    "rank": 8,
-    "record": "17-4-0",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "MATEUSZ GAMROT",
-    "weight": 155,
-    "rank": 9,
-    "record": "26-5-0",
-    "status": "Former KSW Double Champion (Featherweight & Lightweight)"
-  },
-  {
-    "division": "Lightweight",
-    "name": "MAURICIO RUFFY",
-    "weight": 155,
-    "rank": 10,
-    "record": "14-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "TOM NOLAN",
-    "weight": 155,
-    "rank": 11,
-    "record": "11-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "DAN HOOKER",
-    "weight": 155,
-    "rank": 12,
-    "record": "24-14-0",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "RAFAEL FIZIEV",
-    "weight": 155,
-    "rank": 13,
-    "record": "14-5-0",
-    "status": "None"
-  },
-  {
-    "division": "Lightweight",
-    "name": "TOFIQ MUSAYEV",
-    "weight": 155,
-    "rank": 14,
-    "record": "24-6-0",
-    "status": "Former RIZIN Lightweight Champion"
-  },
-  {
-    "division": "Lightweight",
-    "name": "GRANT DAWSON",
-    "weight": 155,
-    "rank": 15,
-    "record": "24-3-1",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "ISLAM MAKHACHEV",
-    "weight": 170,
-    "rank": "C",
-    "record": "29-1-0",
-    "status": "Current UFC Welterweight Champion; Former UFC Lightweight Champion; UFC 2-division Champion"
-  },
-  {
-    "division": "Welterweight",
-    "name": "CARLOS PRATES",
-    "weight": 170,
-    "rank": 1,
-    "record": "24-7-0",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "IAN MACHADO GARRY",
-    "weight": 170,
-    "rank": 2,
-    "record": "17-2-0",
-    "status": "Former Cage Warriors Welterweight Champion"
-  },
-  {
-    "division": "Welterweight",
-    "name": "MICHAEL MORALES",
-    "weight": 170,
-    "rank": 3,
-    "record": "19-0-0",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "JACK DELLA MADDALENA",
-    "weight": 170,
-    "rank": 4,
-    "record": "17-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "SEAN BRADY",
-    "weight": 170,
-    "rank": 5,
-    "record": "19-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "GABRIEL BONFIM",
-    "weight": 170,
-    "rank": 6,
-    "record": "20-1-0",
-    "status": "Former LFA Welterweight Champion"
-  },
-  {
-    "division": "Welterweight",
-    "name": "BELAL MUHAMMAD",
-    "weight": 170,
-    "rank": 7,
-    "record": "24-6-0",
-    "status": "Former UFC Welterweight Champion; Former Titan FC Welterweight Champion"
-  },
-  {
-    "division": "Welterweight",
-    "name": "LEON EDWARDS",
-    "weight": 170,
-    "rank": 8,
-    "record": "22-4-0",
-    "status": "Former UFC Welterweight Champion"
-  },
-  {
-    "division": "Welterweight",
-    "name": "JOAQUIN BUCKLEY",
-    "weight": 170,
-    "rank": 9,
-    "record": "21-8-0",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "UROS MEDIC",
-    "weight": 170,
-    "rank": 10,
-    "record": "14-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "KAMARU USMAN",
-    "weight": 170,
-    "rank": 11,
-    "record": "20-4-0",
-    "status": "Former UFC Welterweight Champion"
-  },
-  {
-    "division": "Welterweight",
-    "name": "MIKE MALOTT",
-    "weight": 170,
-    "rank": 12,
-    "record": "14-2-1",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "YAROSLAV AMOSOV",
-    "weight": 170,
-    "rank": 13,
-    "record": "29-1-0",
-    "status": "Former Bellator Welterweight Champion"
-  },
-  {
-    "division": "Welterweight",
-    "name": "KEVIN HOLLAND",
-    "weight": 170,
-    "rank": 14,
-    "record": "29-15-0",
-    "status": "None"
-  },
-  {
-    "division": "Welterweight",
-    "name": "DANIEL RODRIGUEZ",
-    "weight": 170,
-    "rank": 15,
-    "record": "20-7-0",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "SEAN STRICKLAND",
-    "weight": 185,
-    "rank": "C",
-    "record": "31-7-0",
-    "status": "Current UFC Middleweight Champion; 2x UFC Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "KHAMZAT CHIMAEV",
-    "weight": 185,
-    "rank": 1,
-    "record": "15-1-0",
-    "status": "Former UFC Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "DRICUS DU PLESSIS",
-    "weight": 185,
-    "rank": 2,
-    "record": "24-3-0",
-    "status": "Former UFC Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "NASSOURDINE IMAVOV",
-    "weight": 185,
-    "rank": 3,
-    "record": "17-4-0",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "JOE PYFER",
-    "weight": 185,
-    "rank": 4,
-    "record": "16-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "BRENDAN ALLEN",
-    "weight": 185,
-    "rank": 5,
-    "record": "27-7-0",
-    "status": "Former LFA Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "CAIO BORRALHO",
-    "weight": 185,
-    "rank": 6,
-    "record": "18-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "ANTHONY HERNANDEZ",
-    "weight": 185,
-    "rank": 7,
-    "record": "15-4-0",
-    "status": "Former LFA Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "MICHAEL VENOM PAGE",
-    "weight": 185,
-    "rank": 8,
-    "record": "25-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "ISRAEL ADESANYA",
-    "weight": 185,
-    "rank": 9,
-    "record": "24-6-0",
-    "status": "2x UFC Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "GREGORY RODRIGUES",
-    "weight": 185,
-    "rank": 10,
-    "record": "19-6-0",
-    "status": "Former LFA Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "CHRISTIAN LEROY DUNCAN",
-    "weight": 185,
-    "rank": 11,
-    "record": "15-2-0",
-    "status": "Former Cage Warriors Middleweight Champion"
-  },
-  {
-    "division": "Middleweight",
-    "name": "IKRAM ALISKEROV",
-    "weight": 185,
-    "rank": 12,
-    "record": "18-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "BO NICKAL",
-    "weight": 185,
-    "rank": 13,
-    "record": "9-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "ABUS MAGOMEDOV",
-    "weight": 185,
-    "rank": 14,
-    "record": "29-7-1",
-    "status": "None"
-  },
-  {
-    "division": "Middleweight",
-    "name": "NURSULTON RUZIBOEV",
-    "weight": 185,
-    "rank": 15,
-    "record": "37-9-2",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "CARLOS ULBERG",
-    "weight": 205,
-    "rank": "C",
-    "record": "15-1-0",
-    "status": "Current UFC Light Heavyweight Champion"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "ALEX PEREIRA",
-    "weight": 205,
-    "rank": 1,
-    "record": "13-3-0",
-    "status": "Former UFC Middleweight & Light Heavyweight Champion; Former UFC 2-division Champion"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "MAGOMED ANKALAEV",
-    "weight": 205,
-    "rank": 2,
-    "record": "22-2-1",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "JIRI PROCHAZKA",
-    "weight": 205,
-    "rank": 3,
-    "record": "32-6-1",
-    "status": "Former UFC & RIZIN Light Heavyweight Champion"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "PAULO COSTA",
-    "weight": 205,
-    "rank": 4,
-    "record": "16-4-0",
-    "status": "Former Jungle Fight Middleweight Champion"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "JAMAHAL HILL",
-    "weight": 205,
-    "rank": 5,
-    "record": "12-2-0",
-    "status": "Former UFC Light Heavyweight Champion"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "KHALIL ROUNTREE JR.",
-    "weight": 205,
-    "rank": 6,
-    "record": "15-7-0",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "NAVAJO STIRLING",
-    "weight": 205,
-    "rank": 7,
-    "record": "11-0-0",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "DOMINICK REYES",
-    "weight": 205,
-    "rank": 8,
-    "record": "16-5-0",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "AZAMAT MURZAKANOV",
-    "weight": 205,
-    "rank": 9,
-    "record": "16-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "BOGDAN GUSKOV",
-    "weight": 205,
-    "rank": 10,
-    "record": "18-3-0",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "ROBERT WHITTAKER",
-    "weight": 205,
-    "rank": 11,
-    "record": "28-9-0",
-    "status": "Former UFC Middleweight Champion"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "ALONZO MENIFIELD",
-    "weight": 205,
-    "rank": 12,
-    "record": "18-6-1",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "JOHNNY WALKER",
-    "weight": 205,
-    "rank": 13,
-    "record": "22-10-0",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "MUHAMMAD SAIDOV",
-    "weight": 205,
-    "rank": 14,
-    "record": "10-0-0",
-    "status": "None"
-  },
-  {
-    "division": "Light Heavyweight",
-    "name": "IWO BARANIEWSKI",
-    "weight": 205,
-    "rank": 15,
-    "record": "9-0-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "TOM ASPINALL",
-    "weight": 265,
-    "rank": "C",
-    "record": "15-3-0",
-    "status": "Current UFC Heavyweight Champion; Former Interim UFC Heavyweight Champion"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "CIRYL GANE",
-    "weight": 265,
-    "rank": 1,
-    "record": "14-2-0",
-    "status": "Current UFC Interim Heavyweight Champion; Former Interim UFC Heavyweight Champion"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "ALEXANDER VOLKOV",
-    "weight": 265,
-    "rank": 2,
-    "record": "40-11-0",
-    "status": "Former Bellator & M-1 Heavyweight Champion"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "SERGEI PAVLOVICH",
-    "weight": 265,
-    "rank": 3,
-    "record": "21-3-0",
-    "status": "Former FNG Heavyweight Champion"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "RIZVAN KUNIEV",
-    "weight": 265,
-    "rank": 5,
-    "record": "14-3-1",
-    "status": "Former EFC Heavyweight Champion"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "JOSH HOKIT",
-    "weight": 265,
-    "rank": 6,
-    "record": "10-0-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "WALDO CORTES ACOSTA",
-    "weight": 265,
-    "rank": 7,
-    "record": "17-3-0",
-    "status": "Former LFA Heavyweight Champion"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "VALTER WALKER",
-    "weight": 265,
-    "rank": 8,
-    "record": "16-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "CURTIS BLAYDES",
-    "weight": 265,
-    "rank": 10,
-    "record": "19-6-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "VITOR PETRINO",
-    "weight": 265,
-    "rank": 11,
-    "record": "15-2-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "BRANDO PERICIC",
-    "weight": 265,
-    "rank": 12,
-    "record": "7-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "MARIO PINTO",
-    "weight": 265,
-    "rank": 13,
-    "record": "12-0-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "MICK PARKIN",
-    "weight": 265,
-    "rank": 14,
-    "record": "10-1-0",
-    "status": "None"
-  },
-  {
-    "division": "Heavyweight",
-    "name": "RYAN SPANN",
-    "weight": 265,
-    "rank": 15,
-    "record": "24-11-0",
-    "status": "Former LFA Light Heavyweight Champion"
-  }
-]
+{
+  "source": "ufc.com rankings, pasted by user",
+  "as_of": "2026-10-11",
+  "note": "record is null where no verified source was found",
+  "divisions": [
+    {
+      "division": "Flyweight",
+      "champion": {
+        "name": "Joshua Van",
+        "interim": false,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Manel Kape",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Alexandre Pantoja",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Brandon Royval",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Tatsuro Taira",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Asu Almabayev",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Lone’er Kavanagh",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Ramazan Temirov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Kyoji Horiguchi",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Amir Albazi",
+          "movement": "up 1",
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Brandon Moreno",
+          "movement": "down 1",
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Sumudaerji",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Mitch Raposo",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Imanol Rodriguez",
+          "movement": "new",
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Rei Tsuruya",
+          "movement": "down 1",
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Charles Johnson",
+          "movement": "down 1",
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Bantamweight",
+      "champion": {
+        "name": "Petr Yan",
+        "interim": false,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Merab Dvalishvili",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Song Yadong",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Sean O'Malley",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Mario Bautista",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Umar Nurmagomedov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Cory Sandhagen",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "David Martinez",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Raul Rosas Jr.",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Farid Basharat",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Marcus McGhee",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Payton Talbott",
+          "movement": "new",
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Montel Jackson",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Aiemann Zahabi",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Marlon Vera",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Bryce Mitchell",
+          "movement": null,
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Featherweight",
+      "champion": {
+        "name": "Alexander Volkanovski",
+        "interim": false,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Movsar Evloev",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Diego Lopes",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Lerone Murphy",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Aljamain Sterling",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Jean Silva",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Arnold Allen",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Pat Sabatini",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Pavel Andrusca",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Youssef Zalal",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Kevin Vallejos",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Joanderson Brito",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Melquizael Costa",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Steve Garcia",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Aaron Pico",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Jamall Emmers",
+          "movement": null,
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Lightweight",
+      "champion": {
+        "name": "Justin Gaethje",
+        "interim": false,
+        "record": {
+          "wins": 28,
+          "losses": 5,
+          "draws": 0,
+          "no_contests": 0
+        }
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Ilia Topuria",
+          "movement": null,
+          "record": {
+            "wins": 17,
+            "losses": 1,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Arman Tsarukyan",
+          "movement": null,
+          "record": {
+            "wins": 24,
+            "losses": 3,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Charles Oliveira",
+          "movement": null,
+          "record": {
+            "wins": 37,
+            "losses": 11,
+            "draws": 0,
+            "no_contests": 1
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Max Holloway",
+          "movement": null,
+          "record": {
+            "wins": 28,
+            "losses": 9,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Paddy Pimblett",
+          "movement": null,
+          "record": {
+            "wins": 24,
+            "losses": 4,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 6,
+          "name": "Quillan Salkilld",
+          "movement": null,
+          "record": {
+            "wins": 13,
+            "losses": 1,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 7,
+          "name": "Benoît Saint Denis",
+          "movement": null,
+          "record": {
+            "wins": 17,
+            "losses": 4,
+            "draws": 0,
+            "no_contests": 1
+          }
+        },
+        {
+          "rank": 8,
+          "name": "Renato Moicano",
+          "movement": null,
+          "record": {
+            "wins": 21,
+            "losses": 7,
+            "draws": 1,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 9,
+          "name": "Mateusz Gamrot",
+          "movement": null,
+          "record": {
+            "wins": 26,
+            "losses": 5,
+            "draws": 0,
+            "no_contests": 1
+          }
+        },
+        {
+          "rank": 10,
+          "name": "Mauricio Ruffy",
+          "movement": null,
+          "record": {
+            "wins": 14,
+            "losses": 3,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 11,
+          "name": "Tom Nolan",
+          "movement": null,
+          "record": {
+            "wins": 11,
+            "losses": 1,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 12,
+          "name": "Rafael Fiziev",
+          "movement": null,
+          "record": {
+            "wins": 14,
+            "losses": 5,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 13,
+          "name": "Tofiq Musayev",
+          "movement": null,
+          "record": {
+            "wins": 24,
+            "losses": 6,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 14,
+          "name": "Grant Dawson",
+          "movement": null,
+          "record": {
+            "wins": 24,
+            "losses": 3,
+            "draws": 1,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 15,
+          "name": "Esteban Ribovics",
+          "movement": "new",
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Welterweight",
+      "champion": {
+        "name": "Islam Makhachev",
+        "interim": false,
+        "record": {
+          "wins": 29,
+          "losses": 1,
+          "draws": 0,
+          "no_contests": 0
+        }
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Carlos Prates",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Ian Machado Garry",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Michael Morales",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Jack Della Maddalena",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Sean Brady",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Gabriel Bonfim",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Belal Muhammad",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Joaquin Buckley",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Uroš Medić",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Leon Edwards",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Mike Malott",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Kamaru Usman",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Yaroslav Amosov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Kevin Holland",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Daniel Rodriguez",
+          "movement": null,
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Middleweight",
+      "champion": {
+        "name": "Sean Strickland",
+        "interim": false,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Khamzat Chimaev",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Dricus Du Plessis",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Nassourdine Imavov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Joe Pyfer",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Brendan Allen",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Caio Borralho",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Gregory Rodrigues",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Anthony Hernandez",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Israel Adesanya",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Christian Leroy Duncan",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Ikram Aliskerov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Bo Nickal",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Abus Magomedov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Roman Kopylov",
+          "movement": "new",
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Edmen Shahbazyan",
+          "movement": "down 1",
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Light Heavyweight",
+      "champion": {
+        "name": "Carlos Ulberg",
+        "interim": false,
+        "record": {
+          "wins": 14,
+          "losses": 1,
+          "draws": 0,
+          "no_contests": 0
+        }
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Alex Pereira",
+          "movement": null,
+          "record": {
+            "wins": 13,
+            "losses": 4,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Magomed Ankalaev",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Jiří Procházka",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Paulo Costa",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Khalil Rountree Jr.",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Navajo Stirling",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Dominick Reyes",
+          "movement": null,
+          "record": {
+            "wins": 16,
+            "losses": 5,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 8,
+          "name": "Reinier de Ridder",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Azamat Murzakanov",
+          "movement": null,
+          "record": {
+            "wins": 16,
+            "losses": 1,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 10,
+          "name": "Alonzo Menifield",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Bogdan Guskov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Robert Whittaker",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Muhammad Saidov",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Modestas Bukauskas",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Abdul Rakhman Yakhyaev",
+          "movement": null,
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Heavyweight",
+      "champion": {
+        "name": "Ciryl Gane",
+        "interim": true,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Tom Aspinall",
+          "movement": null,
+          "record": {
+            "wins": 15,
+            "losses": 3,
+            "draws": 0,
+            "no_contests": 1
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Sergei Pavlovich",
+          "movement": null,
+          "record": {
+            "wins": 21,
+            "losses": 3,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Alex Pereira",
+          "movement": null,
+          "record": {
+            "wins": 13,
+            "losses": 4,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Alexander Volkov",
+          "movement": null,
+          "record": {
+            "wins": 40,
+            "losses": 11,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Rizvan Kuniev",
+          "movement": null,
+          "record": {
+            "wins": 14,
+            "losses": 3,
+            "draws": 1,
+            "no_contests": 1
+          }
+        },
+        {
+          "rank": 6,
+          "name": "Josh Hokit",
+          "movement": null,
+          "record": {
+            "wins": 10,
+            "losses": 0,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 7,
+          "name": "Curtis Blaydes",
+          "movement": null,
+          "record": {
+            "wins": 20,
+            "losses": 6,
+            "draws": 0,
+            "no_contests": 1
+          }
+        },
+        {
+          "rank": 8,
+          "name": "Waldo Cortes Acosta",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Vitor Petrino",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Mario Pinto",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Valter Walker",
+          "movement": null,
+          "record": {
+            "wins": 16,
+            "losses": 1,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 12,
+          "name": "Johnny Walker",
+          "movement": "new",
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Brando Peričić",
+          "movement": "down 1",
+          "record": {
+            "wins": 7,
+            "losses": 1,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 14,
+          "name": "Serghei Spivac",
+          "movement": "down 1",
+          "record": {
+            "wins": 18,
+            "losses": 7,
+            "draws": 0,
+            "no_contests": 0
+          }
+        },
+        {
+          "rank": 15,
+          "name": "Anthony Wint",
+          "movement": "new",
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Women's Strawweight",
+      "champion": {
+        "name": "Mackenzie Dern",
+        "interim": false,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Zhang Weili",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Virna Jandiroba",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Tatiana Suarez",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Denise Gomes",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Gillian Robertson",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Fatima Kline",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Alexia Thainara",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Piera Rodriguez",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Yan Xiaonan",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Mizuki",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Loopy Godinez",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Tabatha Ricci",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Jaqueline Amorim",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Talita Alencar",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Amanda Lemos",
+          "movement": null,
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Women's Flyweight",
+      "champion": {
+        "name": "Natalia Silva",
+        "interim": false,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Valentina Shevchenko",
+          "movement": "down 1",
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Alexa Grasso",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Erin Blanchfield",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Manon Fiorot",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Zhang Weili",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Jasmine Jasudavicius",
+          "movement": "up 1",
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Rose Namajunas",
+          "movement": "up 1",
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Wang Cong",
+          "movement": "down 2",
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Maycee Barber",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Tracy Cortez",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Casey O'Neill",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Miranda Maverick",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Regina Tarin",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Karine Silva",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Carli Judice",
+          "movement": null,
+          "record": null
+        }
+      ]
+    },
+    {
+      "division": "Women's Bantamweight",
+      "champion": {
+        "name": "Kayla Harrison",
+        "interim": false,
+        "record": null
+      },
+      "ranked": [
+        {
+          "rank": 1,
+          "name": "Joselyne Edwards",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 2,
+          "name": "Ailin Perez",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 3,
+          "name": "Norma Dumont",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 4,
+          "name": "Luana Santos",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 5,
+          "name": "Julianna Peña",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 6,
+          "name": "Yana Santos",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 7,
+          "name": "Jacqueline Cavalcanti",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 8,
+          "name": "Michelle Montague",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 9,
+          "name": "Melissa Croden",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 10,
+          "name": "Karol Rosa",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 11,
+          "name": "Bia Mesquita",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 12,
+          "name": "Nora Cornolle",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 13,
+          "name": "Macy Chiasson",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 14,
+          "name": "Daria Zhelezniakova",
+          "movement": null,
+          "record": null
+        },
+        {
+          "rank": 15,
+          "name": "Raquel Pennington",
+          "movement": null,
+          "record": null
+        }
+      ]
+    }
+  ]
+}
