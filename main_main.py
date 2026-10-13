@@ -43,10 +43,13 @@ def profile(name):
 
 @app.route('/events')
 def events():
-    url = 'http://127.0.0.1:3000/fights'
-    response = requests.get(url)
-    fights = response.json()
-    return (fights)
+    try:
+        url = 'http://127.0.0.1:3000/fights'
+        response = requests.get(url)
+        fights = response.json()
+        return (fights)
+    except requests.ecceptions.RequestException:
+        return jsonify({'error': 'sorry we are having problems try later'})
 
 @app.route('/fighter/<fighter>')
 def fighters(fighter):
