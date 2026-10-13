@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 users = {}
 LIMIT = 5
-fighters = []
+top_fighters = []
 
 @app.route('/')
 @app.route('/apex.com')
@@ -68,25 +68,25 @@ def fighters(fighter):
 def settings():
     return ''
 
-@app.route('/top-fighters', methods=['POST', 'DELETE', 'GET'])
+@app.route('/top_fighters', methods=['POST', 'DELETE', 'GET'])
 def top_5():
     data = request.get_json()
-    fighter = data("fighter")
+    fighters_5 = data.get("fighters_5")
 
     if request.method == 'POST':
-        if len(fighters) >= LIMIT:
+        if len(fighters_5) >= LIMIT:
             return jsonify({'message': 'you cannot enter more than 5 fighters'}), 400
-    fighters.append(fighter)
-    return jsonify({'message': 'fighter added'})
+        top_fighters.append(fighters_5)
+        return jsonify({'message': 'fighter added'})
     
     if request.method == 'DELETE':
-        if fighter not in fighters:
+        if top_fighters not in fighters_5:
             return jsonify({'error': 'fighter not in your list'}), 404
-        fighters.remove(fighter)
+        top_fighters.remove(fighters_5)
         return jsonify({'message': 'fighter removed'})
     
     if request.method == 'GET':
-        return jsonify(fighters)
+        return jsonify(top_fighters)
 
 
 if __name__ == '__main__':
