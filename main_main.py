@@ -1,9 +1,11 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 import requests
 
 app = Flask(__name__)
 
 users = {}
+LIMIT = 5
+fighters = []
 
 @app.route('/')
 @app.route('/apex.com')
@@ -62,6 +64,27 @@ def fighters(fighter):
 @app.route('/settings')
 def settings():
     return ''
+
+@app.route('/top-fighters', methods=['POST', 'DELETE', 'GET'])
+def top_5():
+    data = request.get_json()
+    fighter = data("fighter")
+
+    if request.method == 'POST':
+        if len(fighters) >= LIMIT:
+            return jsonify({'message': 'you cannot enter more than 5 fighters'}), 400
+    fighters.append(fighter)
+    return jsonify({'message': 'fighter added'})
+    
+    if request.method == 'DELETE':
+        if fighter not in fighters:
+            return jsonify({'error': 'fighter not in your list'}), 404
+        fighters.remove(fighter)
+        return jsonify({'message': 'fighter removed'})
+    
+    if request.method == 'GET':
+        return jsonify(fighters)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
