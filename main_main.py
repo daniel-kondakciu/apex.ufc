@@ -74,13 +74,13 @@ def top_5():
     fighters_5 = data.get("fighters_5")
 
     if request.method == 'POST':
-        if len(fighters_5) >= LIMIT:
+        if len(top_fighters) >= LIMIT:
             return jsonify({'message': 'you cannot enter more than 5 fighters'}), 400
         top_fighters.append(fighters_5)
         return jsonify({'message': 'fighter added'})
     
     if request.method == 'DELETE':
-        if top_fighters not in fighters_5:
+        if fighters_5 not in top_fighters:
             return jsonify({'error': 'fighter not in your list'}), 404
         top_fighters.remove(fighters_5)
         return jsonify({'message': 'fighter removed'})
