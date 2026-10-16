@@ -17,6 +17,7 @@ def apex():
 def log_in():
     data = request.get_json()
     email = data.get("email")
+    password = data.get('password')
 
 @app.route('/signup', methods=['POST'])
 def sign_up():
