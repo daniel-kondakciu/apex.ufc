@@ -7,6 +7,7 @@ users = {}
 LIMIT = 5
 fighters_list = []
 
+
 @app.route('/')
 @app.route('/apex.com')
 def apex():
