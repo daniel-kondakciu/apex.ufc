@@ -43,17 +43,19 @@ def main_menu():
 def profile(name):
     return f'<h1>name: {name}</h1>'
 
-@app.route('/events')
-def events():
+@app.route('/events/<ufc_event>', methods=['GET'])
+def events(ufc_event):
     try:
         url = 'http://127.0.0.1:3000/fights'
         response = requests.get(url)
         fights = response.json()
-        return jsonify(fights)
+        for e in fights:
+            if e['ufc_event'].lower() == ufc_event.lower():
+                return jsonify({'ufc': e['ufc_event'], 'card': e['card'], 'division': e['division'], 'title fight': e['title_bout'], 'fight': e['fight']})
     except requests.exceptions.RequestException:
         return jsonify({'error': 'sorry we are having problems try later :('})
 
-@app.route('/fighter/<name>')
+@app.route('/fighter/<name>', methods=['GET'])
 def fighters(name):
     try:
         response = requests.get('http://127.0.0.1:5001/fighters')

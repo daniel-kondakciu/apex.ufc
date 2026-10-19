@@ -1,0 +1,16 @@
+[
+  {"ufc_event": "ufc 333", "card": "main card", "division": "Featherweight", "title_bout": true, "fight": "champion alexander volkanovski vs movsar evloev #1"},
+  {"ufc_event": "ufc 333", "card": "main card", "division": "Bantamweight", "title_bout": true, "fight": "champion petr yan vs merab dvalishvili #1"},
+  {"ufc_event": "ufc 333", "card": "main card", "division": "Flyweight", "title_bout": false, "fight": "#6 lone’er kavanagh vs ramazan temirov #10"},
+  {"ufc_event": "ufc 333", "card": "main card", "division": "Heavyweight", "title_bout": false, "fight": "#2 alexander volkov vs rizvan kuniev #7"},
+  {"ufc_event": "ufc 333", "card": "main card", "division": "Featherweight", "title_bout": false, "fight": "#11 aaron pico vs losene keita"},
+  {"ufc_event": "ufc 333", "card": "prelims", "division": "Light Heavyweight", "title_bout": false, "fight": "#7 azamat murzakanov vs dominick reyes #8"},
+  {"ufc_event": "ufc 333", "card": "prelims", "division": "Light Heavyweight", "title_bout": false, "fight": "nikita krylov vs abdul rakhman yakhyaev #15"},
+  {"ufc_event": "ufc 333", "card": "prelims", "division": "Middleweight", "title_bout": false, "fight": "#12 abus magomedov vs cam rowston"},
+  {"ufc_event": "ufc 333", "card": "prelims", "division": "Lightweight", "title_bout": false, "fight": "grant dawson vs nurullo aliev"},
+  {"ufc_event": "ufc 333", "card": "early prelims", "division": "Bantamweight", "title_bout": false, "fight": "colby thicknesse vs asaf chopurov"},
+  {"ufc_event": "ufc 333", "card": "early prelims", "division": "Middleweight", "title_bout": false, "fight": "abubakar vagaev vs jacob malkoun"},
+  {"ufc_event": "ufc 333", "card": "early prelims", "division": "Featherweight", "title_bout": false, "fight": "bolaji oki vs daniel santos"},
+  {"ufc_event": "ufc 333", "card": "early prelims", "division": "Lightweight", "title_bout": false, "fight": "kody steele vs noah gugnon"},
+  {"ufc_event": "ufc 333", "card": "early prelims", "division": "Women's Strawweight", "title_bout": false, "fight": "iasmin lucindo vs nicolle caliari"}
+]
