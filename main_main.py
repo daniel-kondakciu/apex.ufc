@@ -60,7 +60,7 @@ def fighters(name):
         data = response.json()
         for fighter in data:
             if fighter['name'].upper() == name.upper():
-                return jsonify({'division': fighter['division'], 'name': fighter['name']})
+                return jsonify({'name': fighter['name'], 'division': fighter['division'], 'rank': fighter['rank'], 'record': fighter['record']})
             elif fighter not in data:
                 return jsonify({'message': 'couldnt find the fighter'})
     except requests.exceptions.RequestException:
