@@ -4,7 +4,6 @@ import requests
 app = Flask(__name__)
 
 users = {}
-LIMIT = 5
 fighters_list = []
 
 
@@ -22,22 +21,31 @@ def log_in():
 @app.route('/signup', methods=['POST'])
 def sign_up():
     data = request.get_json()
-    name = data.get("name")
+    username = data.get("username")
     email = data.get("email")
     password = data.get("password")
 
-    if not name or not email or not password:
+    if not username or not email or not password:
         return jsonify({"error": "name,email,password required"}), 400
-
+    if username in users:
+        return ({"error": "the username is already taken"}), 409
     if email in users:
         return jsonify({"message": "email is already registerd"}), 409
+    if "@" and ".com" not in email:
+        return ({"error": "email is missing @ and .com"})
+    if "@" not in email:
+        return ({"error": "email is missing @"}), 409
+    if ".com" not in email:
+        return ({"error": "email is missing .com"}), 409
+    if len(password) < 8:
+        return ({"error": "password must be 8 or more characters"}), 409
 
     users[email] = password
     return jsonify({"message": "user created"}), 201
 
 @app.route('/mainmenu')
 def main_menu():
-    return '<h1>profile, events, fighters, settings</h1>'
+    return '<h1>profile, events, fighters, top 5, settings</h1>'
 
 @app.route('/profile/<name>')
 def profile(name):
@@ -61,7 +69,7 @@ def fighters(name):
         response = requests.get('http://127.0.0.1:5001/fighters')
         data = response.json()
         for fighter in data:
-            if fighter['name'].upper() == name.upper():
+            if fighter['name'].lower() == name.lower():
                 return jsonify({'name': fighter['name'], 'division': fighter['division'], 'rank': fighter['rank'], 'record': fighter['record']})
             elif fighter not in data:
                 return jsonify({'message': 'couldnt find the fighter'})
@@ -70,13 +78,13 @@ def fighters(name):
 
 @app.route('/top-5', methods=['POST', 'DELETE', 'GET'])
 def top_fighters():
-    data = request.get_json()
-    fighter = data.get('fighter')
     if request.method == 'GET':
         return jsonify(fighters_list)
     
+    data = request.get_json()
+    fighter = data.get('fighter')
     if request.method == 'POST':
-        if len(fighters_list) >= LIMIT:
+        if len(fighters_list) > 5:
             return jsonify({'error': 'You have reached your limit list please remove a fighter to add another one'})
         fighters_list.append(fighter)
         return jsonify({'message': 'Fighter added in your list'}), 201
