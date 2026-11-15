@@ -30,9 +30,7 @@ def sign_up():
     if username in users:
         return ({"error": "the username is already taken"}), 409
     if email in users:
-        return jsonify({"message": "email is already registerd"}), 409
-    if "@" and ".com" not in email:
-        return ({"error": "email is missing @ and .com"})
+        return jsonify({"error": "email is already registerd"}), 409
     if "@" not in email:
         return ({"error": "email is missing @"}), 409
     if ".com" not in email:
@@ -60,6 +58,7 @@ def events(ufc_event):
         for e in fights:
             if e['ufc_event'].lower() == ufc_event.lower():
                 return jsonify({'ufc': e['ufc_event'], 'card': e['card'], 'division': e['division'], 'title fight': e['title_bout'], 'fight': e['fight']})
+        return jsonify({"error": "event not found"})
     except requests.exceptions.RequestException:
         return jsonify({'error': 'sorry we are having problems try later :('})
 
@@ -71,8 +70,7 @@ def fighters(name):
         for fighter in data:
             if fighter['name'].lower() == name.lower():
                 return jsonify({'name': fighter['name'], 'division': fighter['division'], 'rank': fighter['rank'], 'record': fighter['record']})
-            elif fighter not in data:
-                return jsonify({'message': 'couldnt find the fighter'})
+        return jsonify({"error": "fighter not found"})
     except requests.exceptions.RequestException:
         return jsonify({'error': 'sorry we are having problems try later :('})
 
